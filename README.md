@@ -1,11 +1,11 @@
 Hi there! 👋
-Welcome to my GitHub profile! I'm Muhammad Usman[@tfxTanoli], a front-end designer and MERN stack developer with a passion for creating beautiful and functional web applications. 🚀
+Welcome to my GitHub profile! I'm Faiza Nageen, a front-end designer and MERN stack developer with a passion for creating beautiful and functional web applications. 🚀
 I am also a website cloner😘
 
 About Me ℹ️
 I have extensive experience in crafting user-friendly interfaces using HTML, CSS, and JavaScript. My expertise also extends to backend development using Node.js, Express, and MongoDB, making me proficient in the MERN stack. 💻
 
-In addition to web development, I am skilled in desktop application development using C# and Java. I enjoy building robust and efficient desktop solutions for various platforms. 💼
+In addition to web development, I am skilled in desktop application development using C#, ASP NET, Blazor, and Java. I enjoy building robust and efficient desktop solutions for various platforms. 💼
 
 While my primary focus is on frontend and MERN stack development, I also have some experience with Python, primarily in scripting and automation tasks. 🐍
 
