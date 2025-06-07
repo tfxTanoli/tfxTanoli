@@ -5,8 +5,8 @@ I am also a website cloner😘
 About Me ℹ️
 I have extensive experience in crafting user-friendly interfaces using HTML, CSS, and JavaScript. My expertise also extends to backend development using Node.js, Express, and MongoDB, making me proficient in the MERN stack. 💻
 
-In addition to web development, I am skilled in desktop application development using C#, ASP NET, Blazor, and Java. I enjoy building robust and efficient desktop solutions for various platforms. 💼
-
+In addition to web development, I am skilled in desktop application development using C#, ASP NET, Blazor, Web Assembly, PWA, and Java. I enjoy building robust and efficient desktop solutions for various platforms. 💼
+Also, convert Figma design into working and visually appealing websites.
 While my primary focus is on frontend and MERN stack development, I also have some experience with Python, primarily in scripting and automation tasks. 🐍
 
 What I Bring to the Table 🌟
