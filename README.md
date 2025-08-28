@@ -1,5 +1,5 @@
 Hi there! 👋
-Welcome to my GitHub profile! I'm Faiza Nageen, a front-end designer, desktop application developer, and MERN stack developer with a passion for creating beautiful and functional web applications. 🚀
+Welcome to my GitHub profile! I'm Muhammad Usman, a front-end designer, desktop application developer, and MERN stack developer with a passion for creating beautiful and functional web applications. 🚀
 I am also a website cloner😘
 
 About Me ℹ️
